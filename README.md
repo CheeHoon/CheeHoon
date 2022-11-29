@@ -4,7 +4,7 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div >
-![js](https://user-images.githubusercontent.com/111099653/204464163-674b187f-e99b-4cdd-be5a-bd9c5d8f2b8f.png)
+[![js](https://user-images.githubusercontent.com/111099653/204464163-674b187f-e99b-4cdd-be5a-bd9c5d8f2b8f.png)](https://github.com/CheeHoon/CheeHoon/issues/1#issue-1467578175)
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
