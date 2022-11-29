@@ -1,4 +1,4 @@
-<h2>📚 CheeHoon Song 📚</h2>
+<h2>🚈 CheeHoon Song 💨</h2>
 <div >
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
