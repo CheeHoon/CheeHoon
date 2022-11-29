@@ -4,6 +4,7 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div >
+<img width="8%" src="https://user-images.githubusercontent.com/111099653/204468215-c19fad60-7a68-42e9-ba98-4147dc6186d2.png"/>
 <img src=https://user-images.githubusercontent.com/111099653/204464163-674b187f-e99b-4cdd-be5a-bd9c5d8f2b8f.png/>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
