@@ -1,13 +1,5 @@
 <h2>📚 CheeHoon Song 📚</h2>
-
-
-
-<img alt="이미지명" src ="https://img.shields.io/badge/Android-3ddc84?&style=for-the-badge&logo=Android&logoColor=green"/>
-
-<div align=center>
-	
-</div>
-<div align=center>
+<div >
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
