@@ -16,11 +16,10 @@
 <img width="11%" src="https://user-images.githubusercontent.com/111099653/204701633-c52e13e8-abd5-4342-9f3e-c292aa498537.png"/>
 <img width="13%" src="https://user-images.githubusercontent.com/111099653/204701617-76a4f6ce-047c-4df3-98d7-0c9ad63654af.png"/>
 <img width="21%" src="https://user-images.githubusercontent.com/111099653/204701610-be8875ea-6cbf-49a9-a7d9-cbb6f0e871bd.png"/>
-	
-	
-
 <br>
-
+<div>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCheeHoon&count_bg=%2379C83D&title_bg=%23555555&icon=slickpic.svg&icon_color=%23E7E7E7&title=today+%2F+Total&edge_flat=false"/></a>
+</div>
 <br>
 <div >
 <img width="70%" src="https://user-images.githubusercontent.com/111099653/204719704-bade0576-df6a-47e1-945b-987e3f0f2e55.png"/>
