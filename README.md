@@ -25,7 +25,7 @@
 </div>
 <div >
 	<a href="https://cheehoon.tistory.com">
-		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204720706-7daec764-85f7-45ad-aa7f-7e7c2d14e371.png" />
+		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204739526-f9a80c74-5250-45c7-b9b7-269b5562e055.png" />
 	</a>
 	<a href="mailto:admin@yermi.co.kr">
 		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204720708-3c55aa1a-f6d0-4a49-a8db-ef9620e28935.png" />
