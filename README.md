@@ -1,6 +1,6 @@
 <h2>🚈 CheeHoon Song 🚃🚃</h2>
 <div >
-	<h3>📚 Tech Stack 📚</h3>
+<img width="70%" src="https://user-images.githubusercontent.com/111099653/204719003-b03eec75-c92c-4744-8fe2-23dbbbca879d.png"/>
 </div>
 <div >
 <img width="10%" src="https://user-images.githubusercontent.com/111099653/204701620-fee4d58b-05ed-4546-8ffb-020bbc8192f8.png"/>
@@ -23,17 +23,17 @@
 
 <br>
 <div >
-	<p>🎨 SNS & Portfolio 🎨</p>
+<img width="70%" src="https://user-images.githubusercontent.com/111099653/204719704-bade0576-df6a-47e1-945b-987e3f0f2e55.png"/>
 </div>
 <div >
 	<a href="https://cheehoon.tistory.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204720706-7daec764-85f7-45ad-aa7f-7e7c2d14e371.png" />
 	</a>
 	<a href="mailto:admin@yermi.co.kr">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204720708-3c55aa1a-f6d0-4a49-a8db-ef9620e28935.png" />
 	</a>
 	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204720705-03367cf4-ec18-4cf0-90cc-ad945cb760f5.png" />
 	</a>
 	<br>
 </div>
