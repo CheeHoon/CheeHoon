@@ -32,7 +32,7 @@
 	<a href="mailto:admin@yermi.co.kr">
 		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204720708-3c55aa1a-f6d0-4a49-a8db-ef9620e28935.png" />
 	</a>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
+	<a href="https://github.com/CheeHoon">
 		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204720705-03367cf4-ec18-4cf0-90cc-ad945cb760f5.png" />
 	</a>
 	<br>
