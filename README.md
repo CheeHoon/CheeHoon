@@ -4,12 +4,20 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div >
-<img width="15%" src="https://user-images.githubusercontent.com/111099653/204468215-c19fad60-7a68-42e9-ba98-4147dc6186d2.png"/>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+<img width="15%" src="https://user-images.githubusercontent.com/111099653/204701620-fee4d58b-05ed-4546-8ffb-020bbc8192f8.png"/>
+<img width="15%" src="https://user-images.githubusercontent.com/111099653/204701615-a8263611-199f-4d37-9eed-fde47f9843f6.png"/>
+<img width="15%" src="https://user-images.githubusercontent.com/111099653/204701630-7c31918e-7b66-4456-96d5-fe7000e10d42.png"/>
+<img width="15%" src="https://user-images.githubusercontent.com/111099653/204701631-b4cbe9e9-1ddf-49d0-bcf3-bff6bc298220.png"/>
+<br>
+<img width="15%" src="https://user-images.githubusercontent.com/111099653/204701626-8d18d5cb-2ef8-4851-ba35-c760f215f407.png"/>
+<img width="15%" src="https://user-images.githubusercontent.com/111099653/204701635-c2e896c6-7062-451e-b8c1-7ac1b11a15e0.png"/>
+<br>
+<img width="15%" src="https://user-images.githubusercontent.com/111099653/204701638-fe896030-b955-436f-bc0e-e7eb4e70666e.png"/>
+<img width="15%" src="https://user-images.githubusercontent.com/111099653/204701619-f6e01eec-69ad-4041-bba0-5c43034e51d9.png"/>
+<img width="15%" src="https://user-images.githubusercontent.com/111099653/204701633-c52e13e8-abd5-4342-9f3e-c292aa498537.png"/>
+<img width="15%" src="https://user-images.githubusercontent.com/111099653/204701617-76a4f6ce-047c-4df3-98d7-0c9ad63654af.png"/>
+<img width="15%" src="https://user-images.githubusercontent.com/111099653/204701610-be8875ea-6cbf-49a9-a7d9-cbb6f0e871bd.png"/>
+	
 	
 
 <br>
