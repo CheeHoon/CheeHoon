@@ -27,7 +27,7 @@
 	<a href="https://cheehoon.tistory.com">
 		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204739526-f9a80c74-5250-45c7-b9b7-269b5562e055.png" />
 	</a>
-	<a href="mailto:admin@yermi.co.kr">
+	<a href="mailto:admin@sch.co.kr">
 		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204720708-3c55aa1a-f6d0-4a49-a8db-ef9620e28935.png" />
 	</a>
 	<a href="https://github.com/CheeHoon">
